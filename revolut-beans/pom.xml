@@ -9,18 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>revolut-task</artifactId>
+    <artifactId>revolut-beans</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>ru.revolut.androsovgr</groupId>
-            <artifactId>revolut-beans</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>ru.revolut.androsovgr</groupId>
-            <artifactId>revolut-dao</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-    </dependencies>
 </project>
